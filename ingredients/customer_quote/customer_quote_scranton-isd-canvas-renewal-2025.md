@@ -29,4 +29,4 @@ quote_type: outcome
 rights_status: approved
 ---
 
-Canvas is the only platform in our stack teachers actually defend when we talk budgets.
+Canvas is the only platform in our stack teachers actually defend when we talk funding.
